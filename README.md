@@ -7,4 +7,8 @@ as a designer, earn rewards and get feedback from others.
 
 Thank you, @ Daily UI,
 
+# Daily UI Day 1
+Simple sign in/form for a wig brand
+<img src="https://github.com/ebel-frank/daily_ui_challenge/blob/master/assets/dailyui_day1.png">
+
 
